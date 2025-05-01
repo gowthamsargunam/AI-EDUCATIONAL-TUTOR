@@ -12,7 +12,7 @@ pip install azure-core
 ```
 ### Implement the Python file i.e, TUTOR.py in the Python terminal
 
-### Run the Python file using Streamlit with the command:
+Run the Python file using Streamlit with the command:
 ```
 streamlit run TUTOR.py
 
